@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "license": "CC0-1.0",
+  "termsVersion": "relay-cc0-2026-09-30",
+  "branchId": "sukezo-fuzoroi",
+  "repository": "https://github.com/super-morphist-sukezo/relay-fuzoroi",
+  "title": "男女10人AI物語（スケゾー枝）",
+  "parent": {"branchId":"origin","episodeId":"ep-001","revision":"6f80549558fa227e6dd7628ac595aae62dbbc05d"},
+  "episodes": [
+    {"episodeId":"ep-002","path":"manuscript/02.md","title":"第2話：五七五の指示書","contentHash":"aa6e184750ad25afe8c439798f39aec96e7e900e08dc40eb0361fff0aa9ec52a"}
+  ]
+}
